@@ -24,9 +24,9 @@ yarn add viacep
 ## Início rápido
 
 ```js
-import { viacep } from 'viacep'
+import { ViaCEP } from 'viacep'
 
-const viacep = new viacep()
+const viacep = new ViaCEP()
 
 ;(async () => {
   try {
