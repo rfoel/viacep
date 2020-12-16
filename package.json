@@ -1,6 +1,6 @@
 {
   "name": "viacep",
-  "version": "0.0.1-dev.0",
+  "version": "1.0.0",
   "description": "Procurando um webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil? Utilize o serviço, melhore a qualidade de suas aplicações web e colabore para manter esta base de dados atualizada.",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
